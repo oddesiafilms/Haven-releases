@@ -1,7 +1,7 @@
 {
-  "build": 10,
-  "version": "1.0.10",
-  "notes": "Haven now keeps the same signature, so future updates install over the top.",
+  "build": 11,
+  "version": "1.0.11",
+  "notes": "New: Haven Radio with a host, dancing lights in the Listening Room, and Movie night in the Cinema.",
   "apk": "https://raw.githubusercontent.com/oddesiafilms/haven-releases/main/Haven.apk",
-  "date": "2026-11-22T16:45:49.063796+00:00"
+  "date": "2026-11-22T17:40:14.391222+00:00"
 }
