@@ -1,7 +1,7 @@
 {
-  "build": 8,
-  "version": "1.0.8",
-  "notes": "New: mood check-ins, a Stats section with badges and postcards, and Backup and restore.",
+  "build": 9,
+  "version": "1.0.9",
+  "notes": "New: Nightstand mode, a sound mixer, rain on the glass, stars at night, seasons, sticky notes, animal visitors and a birthday surprise.",
   "apk": "https://raw.githubusercontent.com/oddesiafilms/haven-releases/main/Haven.apk",
-  "date": "2026-11-22T15:14:30.153481+00:00"
+  "date": "2026-11-22T15:49:54.866772+00:00"
 }
