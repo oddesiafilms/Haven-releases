@@ -1,7 +1,7 @@
 {
-  "build": 9,
-  "version": "1.0.9",
-  "notes": "New: Nightstand mode, a sound mixer, rain on the glass, stars at night, seasons, sticky notes, animal visitors and a birthday surprise.",
+  "build": 10,
+  "version": "1.0.10",
+  "notes": "Haven now keeps the same signature, so future updates install over the top.",
   "apk": "https://raw.githubusercontent.com/oddesiafilms/haven-releases/main/Haven.apk",
-  "date": "2026-11-22T15:49:54.866772+00:00"
+  "date": "2026-11-22T16:45:49.063796+00:00"
 }
