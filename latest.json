@@ -1,7 +1,7 @@
 {
-  "build": 12,
-  "version": "1.0.12",
-  "notes": "New: a secret room is hiding somewhere in the house\u2026 plus a Doodle pad in the Writing Desk and photo puzzles in the Gallery.",
+  "build": 13,
+  "version": "1.0.13",
+  "notes": "New: a Haven widget for your home screen with the time, today's thought and what's playing.",
   "apk": "https://raw.githubusercontent.com/oddesiafilms/haven-releases/main/Haven.apk",
-  "date": "2026-11-22T17:54:40.634504+00:00"
+  "date": "2026-11-22T18:05:04.066630+00:00"
 }
