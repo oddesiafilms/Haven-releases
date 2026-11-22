@@ -1,0 +1,7 @@
+{
+  "build": 7,
+  "version": "1.0.7",
+  "notes": "Haven can now update itself from inside the app",
+  "apk": "https://raw.githubusercontent.com/oddesiafilms/haven-releases/main/Haven.apk",
+  "date": "2026-11-22T14:18:24.290011Z"
+}
