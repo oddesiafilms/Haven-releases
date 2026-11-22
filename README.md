@@ -2,4 +2,4 @@
 
 Finished Haven app files only. The Haven app checks latest.json here and updates itself.
 
-Newest build: 7
+Newest build: 8

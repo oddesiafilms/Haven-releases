@@ -1,7 +1,7 @@
 {
-  "build": 7,
-  "version": "1.0.7",
-  "notes": "Haven can now update itself from inside the app",
+  "build": 8,
+  "version": "1.0.8",
+  "notes": "New: mood check-ins, a Stats section with badges and postcards, and Backup and restore.",
   "apk": "https://raw.githubusercontent.com/oddesiafilms/haven-releases/main/Haven.apk",
-  "date": "2026-11-22T14:18:24.290011Z"
+  "date": "2026-11-22T15:14:30.153481+00:00"
 }
